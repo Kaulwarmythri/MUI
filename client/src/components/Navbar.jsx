@@ -5,7 +5,7 @@ import { Box } from "@mui/system";
 
 const StyledToolbar = styled(Toolbar) ({
     display: "flex",
-    justifyContent: "space-between"
+    justifyContent: "space-between",
 })
 
 const Search = styled("div")(({ theme }) => ({
